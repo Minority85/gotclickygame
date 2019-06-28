@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "./images/2/arya.jpg",
+        "name": "Arya"
+    },
+    {
+        "id": 2,
+        "image": "./images/2/sansa.jpeg",
+        "name": "Sansa"
+    },
+    {
+        "id": 3,
+        "image": "./images/2/jon.jpg",
+        "name": "Snow"
+    },
+    {
+        "id": 4,
+        "image": "./images/2/arya.png",
+        "name": "Arya"
+    },
+    {
+        "id": 5,
+        "image": "./images/2/sansa.jpg",
+        "name": "Sansa"
+    },
+    {
+        "id": 6,
+        "image": "./images/2/snow.jpg",
+        "name": "Snow"
+    },
+    {
+        "id": 7,
+        "image": "./images/2/arya2.jpg",
+        "name": "Arya"
+    },
+    {
+        "id": 8,
+        "image": "./images/2/Sansa.png",
+        "name": "Sansa"
+    },
+    {
+        "id": 9,
+        "image": "./images/2/snow2.jpg",
+        "name": "Snow"
+    },
+    {
+        "id": 10,
+        "image": "./images/2/arya3.jpg",
+        "name": "Arya"
+    },
+    {
+        "id": 11,
+        "image": "./images/2/sansa2.png",
+        "name": "Sansa"
+    },
+    {
+        "id": 12,
+        "image": "./images/2/snow3.jpg",
+        "name": "Snow"
+    }
+]

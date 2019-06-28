@@ -1,0 +1,17 @@
+.card {
+    max-width: 170px;
+    max-height: 200px;
+    float: left;
+    margin: 5px;
+    border: none;
+}
+
+.sizeFix {
+    max-width: 170px;
+    max-height: 200px;
+    display: block;
+    width: 100%;
+    height: auto;
+    min-width: 170px;
+    min-height: 200px;
+}

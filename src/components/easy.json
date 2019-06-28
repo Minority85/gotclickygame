@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "./images/1/arya.jpg",
+        "name": "Arya"
+    },
+    {
+        "id": 2,
+        "image": "./images/1/Bran.png",
+        "name": "Bran"
+    },
+    {
+        "id": 3,
+        "image": "./images/1/Brienne.jpg",
+        "name": "Brienne"
+    },
+    {
+        "id": 4,
+        "image": "./images/1/Cersei.png",
+        "name": "Cersei"
+    },
+    {
+        "id": 5,
+        "image": "./images/1/Clegane.png",
+        "name": "Clegane"
+    },
+    {
+        "id": 6,
+        "image": "./images/1/Joffrey.jpg",
+        "name": "Joffrey"
+    },
+    {
+        "id": 7,
+        "image": "./images/1/Khal.jpg",
+        "name": "Khal"
+    },
+    {
+        "id": 8,
+        "image": "./images/1/Melisandre.jpg",
+        "name": "Melisandre"
+    },
+    {
+        "id": 9,
+        "image": "./images/1/Sansa.png",
+        "name": "Sanse"
+    },
+    {
+        "id": 10,
+        "image": "./images/1/snow.jpg",
+        "name": "Snow"
+    },
+    {
+        "id": 11,
+        "image": "./images/1/Targaryen.PNG",
+        "name": "Targaryen"
+    },
+    {
+        "id": 12,
+        "image": "./images/1/Tyrion.png",
+        "name": "Tyrion"
+    }
+]
