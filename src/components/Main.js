@@ -184,6 +184,33 @@ class Main extends Component {
                 this.setState({ mHighScore });
             }
         }
+        else if (difficulty === Hard) {
+
+            if (hScore === 12) {
+
+                if (hHighScore === 12) {
+                    return
+                }
+
+                hHighScore = hScore;
+                this.setState({ hHighScore });
+
+                alert("You Win! Now try Medium or Hard!?")
+
+                score = 0
+                this.setState({ score })
+
+                idHolder.length = 0;
+                this.setState({ idHolder })
+            }
+            else if (hScore < hHighScore) {
+                return
+            }
+            else {
+                hHighScore = hScore;
+                this.setState({ hHighScore });
+            }
+        }
 
     }
 
