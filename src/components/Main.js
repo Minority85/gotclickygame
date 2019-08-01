@@ -235,8 +235,14 @@ class Main extends Component {
 
                 </div>
                 <div className="jumbotron jumbotron-fluid">
-                    <div className="container">
-                        <p className="text-center">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
+                    <div className="container text-center">
+                        <h4>Rules</h4>
+                        <p>
+                            Click on an image to gain 1 point and to start the game. Click on the same image more than once and the game is over.
+                        </p>
+                        <p>
+                            Once you master a level try a harder one for more of a challenge!
+                        </p>
                     </div>
                 </div>
                 <div className="conatiner">
